@@ -1,0 +1,87 @@
+body{
+ 
+  background-color: black;
+
+}
+
+.container{
+
+  background-color: white;
+
+  text-align: center;
+
+  align-items: center;
+
+  /* margin: 33px; */
+
+  margin-left: 30%;
+
+  padding: 90px;
+
+  width: 400px;
+
+  
+}
+
+h1{
+
+font-size: 45px;
+}
+
+#inp{
+
+  border: 3px solid rgb(10, 188, 188);
+
+  width: 270px;
+
+  padding: 8px;
+  font-size: 20px;
+
+  outline: none;
+
+  font-weight: bold;
+
+}
+
+.btn{
+
+  background-color: black;
+
+  width: 60px;
+
+  height: 44px;
+
+  color: white;
+
+  font-size: 20px ;
+
+  outline: none;
+
+  border-radius: 2px;
+
+  cursor: pointer;
+}
+
+.text ul{
+
+  position: relative;
+  background-color: rgb(5, 31, 31);
+  color: white;
+  font-size: 19px;
+  text-align: left;
+  padding: 8px;
+
+}
+
+.text ul i{
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+
+.done{
+
+  text-decoration: line-through;
+  color: black;
+  background-color: red ;
+}
